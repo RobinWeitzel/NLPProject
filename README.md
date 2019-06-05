@@ -10,7 +10,7 @@
 | Model         | Config        | Log    |
 | ------------- |:-------------:| :-----:|
 | Baseline      | [link](https://github.com/RobinWeitzel/NLPProject/blob/master/output/config.json) | [link](https://github.com/RobinWeitzel/NLPProject/tree/master/output/log) |
-| ELMo      | [link](https://github.com/RobinWeitzel/NLPProject/blob/master/_elmo/config.json) | [link](https://github.com/RobinWeitzel/NLPProject/tree/master/output_elmo/log) |
+| ELMo      | [link](https://github.com/RobinWeitzel/NLPProject/blob/master/output_elmo/config.json) | [link](https://github.com/RobinWeitzel/NLPProject/tree/master/output_elmo/log) |
 | Dropout      | [link](https://github.com/RobinWeitzel/NLPProject/blob/master/output_elmo_dropout/config.json) | [link](https://github.com/RobinWeitzel/NLPProject/tree/master/output_elmo_dropout/log) |
 | Embedding      | [link](https://github.com/RobinWeitzel/NLPProject/blob/master/output_elmo_embedding/config.json) | [link](https://github.com/RobinWeitzel/NLPProject/tree/master/output_elmo_embedding/log) |
 | Dropout + Embedding      | [link](https://github.com/RobinWeitzel/NLPProject/blob/master/output_elmo_embedding_dropout/config.json) | [link](https://github.com/RobinWeitzel/NLPProject/tree/master/output_elmo_embedding_dropout/log) |
